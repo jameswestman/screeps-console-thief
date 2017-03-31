@@ -19,5 +19,8 @@
     "url": "https://github.com/FlyingPiMonster/screeps-console-thief/issues"
   },
   "screeps_mod": true,
-  "homepage": "https://github.com/FlyingPiMonster/screeps-console-thief#readme"
+  "homepage": "https://github.com/FlyingPiMonster/screeps-console-thief#readme",
+  "dependencies": {
+    "fs-promise": "^2.0.2"
+  }
 }

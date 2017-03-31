@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/FlyingPiMonster/screeps-console-thief/issues"
   },
+  "screeps_mod": true,
   "homepage": "https://github.com/FlyingPiMonster/screeps-console-thief#readme"
 }

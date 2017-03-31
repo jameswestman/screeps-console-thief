@@ -1,0 +1,22 @@
+{
+  "name": "screeps-console-thief",
+  "version": "1.0.0",
+  "description": "Server mod for Screeps that saves players' console logs to a folder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlyingPiMonster/screeps-console-thief.git"
+  },
+  "keywords": [
+    "screeps"
+  ],
+  "author": "FlyingPiMonster <flyingpimonster@flyingpimonster.net> (https://flyingpimonster.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlyingPiMonster/screeps-console-thief/issues"
+  },
+  "homepage": "https://github.com/FlyingPiMonster/screeps-console-thief#readme"
+}
